@@ -1,4 +1,5 @@
 _repo: Luther-vol-5-of-6_49171
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,12 +10,17 @@ contributor:
     agent_name: Lamond, E. M.
     gutenberg_agent_id: '45085'
     url: http://www.gutenberg.org/2009/agents/45085
+covers:
+- cover_type: archival
+  image_path: 49171-h/images/cover.jpg
 creator:
   author:
     agent_name: Grisar, Hartmann
     gutenberg_agent_id: '45083'
     url: http://www.gutenberg.org/2009/agents/45083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49171#Luther-vol-5-of-6
 gutenberg_issued: '2015-06-09'
 gutenberg_type: Text
 identifiers:
